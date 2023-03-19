@@ -1,4 +1,4 @@
-package CTS.practice.FACTORY.problema1;
+package CTS.practice.creationale.FACTORY.problema1;
 
 public abstract class HospitalEmployee {
 

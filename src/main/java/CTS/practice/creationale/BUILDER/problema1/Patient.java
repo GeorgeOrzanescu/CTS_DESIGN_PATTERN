@@ -1,4 +1,4 @@
-package CTS.practice.BUILDER.problema1;
+package CTS.practice.creationale.BUILDER.problema1;
 
 public class Patient {
     String name;

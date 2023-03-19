@@ -1,4 +1,4 @@
-package CTS.practice.ADAPTER.problema1;
+package CTS.practice.structurale.ADAPTER.problema1;
 
 public class MedicamentFarmacie implements IMedicamentFarmacie {
 

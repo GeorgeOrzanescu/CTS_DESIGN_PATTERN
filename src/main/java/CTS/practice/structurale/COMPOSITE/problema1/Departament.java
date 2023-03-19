@@ -1,4 +1,4 @@
-package CTS.practice.COMPOSITE.problema1;
+package CTS.practice.structurale.COMPOSITE.problema1;
 
 import java.util.ArrayList;
 

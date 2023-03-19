@@ -1,4 +1,4 @@
-package CTS.practice.DECORATOR.problema1;
+package CTS.practice.structurale.DECORATOR.problema1;
 
 public class RezultatDecorat extends DecoratorRezultat{
     public RezultatDecorat(IRezultat rezultat) {

@@ -1,4 +1,4 @@
-package CTS.practice.FACADE.problema1;
+package CTS.practice.structurale.FACADE.problema1;
 
 import java.util.ArrayList;
 

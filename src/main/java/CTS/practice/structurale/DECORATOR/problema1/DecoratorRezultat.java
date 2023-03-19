@@ -1,4 +1,4 @@
-package CTS.practice.DECORATOR.problema1;
+package CTS.practice.structurale.DECORATOR.problema1;
 
 public abstract class DecoratorRezultat implements IRezultat{
 

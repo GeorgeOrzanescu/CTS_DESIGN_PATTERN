@@ -1,6 +1,5 @@
-package CTS.practice.PROTOTYPE.problema1;
+package CTS.practice.creationale.PROTOTYPE.problema1;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Main {

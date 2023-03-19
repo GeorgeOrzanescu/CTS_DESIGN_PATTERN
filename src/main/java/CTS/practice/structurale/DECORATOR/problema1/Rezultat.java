@@ -1,4 +1,4 @@
-package CTS.practice.DECORATOR.problema1;
+package CTS.practice.structurale.DECORATOR.problema1;
 
 public class Rezultat implements IRezultat{
     @Override

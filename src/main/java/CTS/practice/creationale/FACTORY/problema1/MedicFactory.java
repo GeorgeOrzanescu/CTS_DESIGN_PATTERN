@@ -1,4 +1,4 @@
-package CTS.practice.FACTORY.problema1;
+package CTS.practice.creationale.FACTORY.problema1;
 
 public class MedicFactory implements IHospitalEmployeeFactory{
     @Override

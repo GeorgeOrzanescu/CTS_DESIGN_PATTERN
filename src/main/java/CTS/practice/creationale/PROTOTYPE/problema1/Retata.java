@@ -1,4 +1,4 @@
-package CTS.practice.PROTOTYPE.problema1;
+package CTS.practice.creationale.PROTOTYPE.problema1;
 
 import java.util.ArrayList;
 
