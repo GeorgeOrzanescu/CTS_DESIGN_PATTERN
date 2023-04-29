@@ -3,10 +3,10 @@ package CTS.practice.teste.categoria1.test_builder_factory;
 import java.awt.desktop.AboutEvent;
 
 public class Bicicleta implements IBicicleta {
-    private float diametru;
+    private Float diametru;
     private String tipFrana;
-    private boolean areCasca;
-    private boolean areOchelari;
+    private Boolean areCasca;
+    private Boolean areOchelari;
 
     public Bicicleta(float diametru, String tipFrana, boolean areCasca, boolean areOchelari) {
         this.diametru = diametru;
@@ -17,21 +17,34 @@ public class Bicicleta implements IBicicleta {
 
     @Override
     public void setDiametruRoti(float diametru) {
+        if(this.diametru != null ){
+            throw new UnsupportedOperationException();
+        }
         this.diametru = diametru;
     }
 
     @Override
     public void setTipFrana(String tipFrana) {
+        if(this.tipFrana != null ){
+            throw new UnsupportedOperationException();
+        }
         this.tipFrana = tipFrana;
+
     }
 
     @Override
     public void setCascaProtectie(boolean areCasca) {
+        if(this.areCasca != null ){
+            throw new UnsupportedOperationException();
+        }
         this.areCasca = areCasca;
     }
 
     @Override
     public void setOchelari(boolean areOchelari) {
+        if(this.areOchelari != null ){
+            throw new UnsupportedOperationException();
+        }
         this.areOchelari = areOchelari;
     }
 

@@ -23,7 +23,7 @@ public class Main {
         ElectricaBicicleta electricaBicicleta = (ElectricaBicicleta) factoryBicicleta.getBicicleta(TipBicicleta.ELECTRICA,32,"ARS",false,true);
         TrekkerBicicleta trekkerBicicleta = (TrekkerBicicleta) factoryBicicleta.getBicicleta(TipBicicleta.TREKKER,32,"REL",true,false);
 
-
+//        bicicleta1.setTipFrana("gf");
 
         mtbBicicleta.afiseazaBicicleta();
         electricaBicicleta.afiseazaBicicleta();

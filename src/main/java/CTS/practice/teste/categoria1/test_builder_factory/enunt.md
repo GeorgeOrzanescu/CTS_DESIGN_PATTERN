@@ -8,3 +8,4 @@
  - la o privire cu atentia oferirea interfetei IBicicleta cu toate metodele public este facuta sa pacaleasca
  - toate acele metode trebuiesc sa arunce exceptie in implementare pentru a nu permite modificarea ulterioara a obiectului creat
  - o abordare mai corecta ar fi sa folosim o clasa Builder nested in clasa Bicicleta
+ - pana la urma am mers pe solutia validari in setter ( nu este prea eleganta dar functioneaza)
