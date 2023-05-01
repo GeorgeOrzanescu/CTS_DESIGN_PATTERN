@@ -1,0 +1,5 @@
+### 4p. O compania de publicitate se ocupă cu crearea și postarea de bannere stradale. Clasa care se
+ocupă de bannere implementeaza interfața IReclama. Trebuie implementată soluția, astfel încât după ce a fost creat un banner, acesta să poat fi postat în mai multe locații și să nu fie nevoie de re-crearea acestuia prin apelul constructorului care consumă multe resurse. În acest mod compania dorește să evite procesul de creare și că copieze un banner deja creat pe care apoi să îl afișeze în locații diferite.
+### 1p. Să se testeze soluția prin crearea a cel puțin patru obiecte de tip Banner prin intermediul modulului implementat.
+### 4p. Compania crează pe lângă bannere și stikere, flyere și alte tipuri produse promoționale. Toate fac parte din familia de clase IReclama. Se dorește implementarea unui modul care să ajute la crearea de obiecte din familia IReclama. Modulul implementat trebuie să se ocupe de creare de obiecte din această familie de clase care vor implementa interfața IReclama.
+### 1p. Să se testeze soluția prin evidențierea relevantă a utilizării design pattern-ului folosit.

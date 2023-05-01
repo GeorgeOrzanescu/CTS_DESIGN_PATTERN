@@ -1,0 +1,3 @@
+Configurările proxy-ului pot suferi modificări în funcție de schimbările de strategie sau de cerințele de securitate. Este necesară implementarea unui modul prin care aceste configurări să fie salvate, astfel încât să fie permisă revenirea la o configurație anterioară folosită, în cazul în care modificările recente nu s-au dovedit a fi eficiente sau au generat probleme de securitate.
+
+    - Memento design pattern

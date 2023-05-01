@@ -1,0 +1,1 @@
+Să se realizeze o aplicație pentru gestionarea setărilor globale ale unei aplicații. Aplicația trebuie să permită modificarea și accesarea setărilor într-un mod centralizat, asigurându-se că există o singură instanță pentru stocarea acestor setări.
