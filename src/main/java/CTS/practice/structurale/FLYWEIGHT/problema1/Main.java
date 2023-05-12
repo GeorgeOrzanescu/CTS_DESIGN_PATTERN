@@ -1,4 +1,4 @@
-package CTS.practice.structurale.FLYWEIGHT;
+package CTS.practice.structurale.FLYWEIGHT.problema1;
 
 public class Main {
     public static void main(String[] args) {
