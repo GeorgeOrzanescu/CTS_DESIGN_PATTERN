@@ -1,4 +1,4 @@
-package CTS.practice.comportamentale.Observer;
+package CTS.practice.comportamentale.Observer.problema1;
 
 public class Pacient implements IAnuntMedical {
     private String numePacient;

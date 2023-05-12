@@ -1,4 +1,4 @@
-package CTS.practice.comportamentale.Observer;
+package CTS.practice.comportamentale.Observer.problema1;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package CTS.practice.comportamentale.Strategy;
+package CTS.practice.comportamentale.Strategy.problema1;
 
 public class PlataCash implements IModalitatePlata {
 
