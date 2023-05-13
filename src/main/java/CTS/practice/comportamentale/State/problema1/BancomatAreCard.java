@@ -1,4 +1,4 @@
-package CTS.practice.comportamentale.State;
+package CTS.practice.comportamentale.State.problema1;
 
 public class BancomatAreCard implements IStareBancomat{
     @Override
